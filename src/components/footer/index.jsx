@@ -1,12 +1,10 @@
-import React from 'react'
+import React from 'react';
 
-import './index.scss'
+import './index.scss';
 
 export const Footer = () => (
-  <footer className="footer">
-    ©<a href="https://github.com/JaeYeopHan">Jbee</a>, Built with{' '}
-    <a href="https://github.com/JaeYeopHan/gatsby-starter-bee">
-      Gatsby-starter-bee
-    </a>
-  </footer>
-)
+	<footer className="footer">
+		©<a href="https://github.com/JaeYeopHan">Prove</a>, Built with{' '}
+		<a href="https://github.com/prove-ability/prove_v2.io">prove_v2.io</a>
+	</footer>
+);
