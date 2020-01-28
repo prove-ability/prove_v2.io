@@ -15,7 +15,7 @@ export const Utterences = ({ repo }) => {
 			async: true,
 			label: 'prove_v2',
 			'issue-term': 'title',
-			crossOrigin: 'anonymous',
+			crossorigin: 'anonymous',
 			theme: 'dark-blue'
 		};
 
