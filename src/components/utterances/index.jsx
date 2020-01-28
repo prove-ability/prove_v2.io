@@ -13,8 +13,10 @@ export const Utterences = ({ repo }) => {
 			repo,
 			branch,
 			async: true,
-			'issue-term': 'pathname',
-			crossorigin: 'anonymous'
+			label: 'prove_v2',
+			'issue-term': 'title',
+			crossorigin: 'anonymous',
+			theme: 'dark-blue'
 		};
 
 		Object.keys(utterancesConfig).forEach((configKey) => {

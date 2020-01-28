@@ -5,14 +5,14 @@ node_js:
 env:
   - LIGHTHOUSE_API_KEY=adf615154a8d49588da7f64376c841d0
 before_install:
-  - yarn install -g npm@latest
-  - yarn install -g greenkeeper-lockfile@1
+  - yarn global add npm@latest
+  - yarn global add greenkeeper-lockfile@1
 install:
   - yarn install
 before_script:
   - greenkeeper-lockfile-update
 script:
-  - npm run lint
+  - yarn lint
 after_script:
   - greenkeeper-lockfile-upload
 after_success:

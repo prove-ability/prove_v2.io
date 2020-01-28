@@ -3,7 +3,7 @@
 	"private": true,
 	"description": "Gatsby blog starter template",
 	"version": "0.1.0",
-	"author": "Prove_v2[JangHyoSung]<prove.ability00@gmail.com>",
+	"author": "Prove[JangHyoSung]<prove.ability00@gmail.com>",
 	"bugs": {
 		"url": "https://github.com/prove-ability/prove_v2.io/issues"
 	},
@@ -78,6 +78,7 @@
 		"start": "npm run develop",
 		"build": "gatsby build",
 		"lh": "lighthousebot",
-		"fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
+		"fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js",
+		"deploy": "gatsby build --prefix-paths && gh-pages -d public -b master -r 'git@github.com:prove-ability/prove_v2.io.git'"
 	}
 }
