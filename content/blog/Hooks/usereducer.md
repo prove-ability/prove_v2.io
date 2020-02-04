@@ -1,7 +1,7 @@
 ---
 title: useReducer🔥
 date: 2020-02-01 14:02:52
-category: Hooks
+category: Hooks🔥
 draft: false
 ---
 

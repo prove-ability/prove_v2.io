@@ -1,7 +1,7 @@
 ---
 title: useEffect🔥
 date: 2020-01-30 23:01:84
-category: Hooks
+category: Hooks🔥
 draft: false
 ---
 

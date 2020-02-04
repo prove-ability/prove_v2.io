@@ -1,7 +1,7 @@
 ---
 title: Hook 은 무었인가?🔥
 date: 2020-01-29 22:01:89
-category: Hooks
+category: Hooks🔥
 draft: false
 ---
 **Hook 은 함수형 컴포넌트에서 state 와 생명주기 기능을 연동할 수 있게 해주는 특별한 함수⭐**
