@@ -1,7 +1,7 @@
 ---
-title: strictMode🔥
+title: strictMode⭐
 date: 2020-02-04 17:02:88
-category: etc
+category: etc⭐
 draft: false
 ---
 
