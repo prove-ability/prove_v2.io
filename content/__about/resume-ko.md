@@ -4,14 +4,19 @@ date: 2020-01-19 16:21:13
 lang: 'ko'
 ---
 
-# About the Prove
-
 <div align="center">
 
 ```
 ```
-### Where is my mineral
+
+🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀
+
+### 오늘도 일한다고 고생했어요😄
+
+🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀
+
 ```
 ```
+
 <!-- _Thank you for reading my resume. If you want to contact me, Please send me an email._ -->
 </div>
